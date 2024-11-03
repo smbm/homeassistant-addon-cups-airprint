@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+
+- Ingress port
+
 ## 1.1
 
 - Ingress
