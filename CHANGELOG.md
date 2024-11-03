@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.3
+
+- Ingress not working currently, inlcuding instructions for how to access web IF
+
 ## 1.1.2
 
 - allow all
